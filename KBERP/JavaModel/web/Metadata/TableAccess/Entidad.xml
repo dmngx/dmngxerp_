@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="55d0e017-f5a0-4926-b60a-386f1370759a">
+  <Table name="Provincia" />
+  <Table name="Pais" />
+  <Table name="Localidad" />
+  <Table name="TipoDocumento" />
+  <Table name="CondicionIva" />
+  <Table name="CondicionCpraVta" />
+  <Table name="Empresa" />
+  <Table name="Comprobante" />
+  <Table name="Entidad" />
+  <Table name="EntidadTelefono" />
+  <Table name="EntidadDomicilio" />
+</Dependencies>

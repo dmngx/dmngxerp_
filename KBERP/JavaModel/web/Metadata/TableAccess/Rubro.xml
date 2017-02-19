@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="37bc5120-43b0-4d47-ac92-d8cc45cb3195">
+  <Table name="Rubro" />
+  <Table name="Articulo" />
+</Dependencies>

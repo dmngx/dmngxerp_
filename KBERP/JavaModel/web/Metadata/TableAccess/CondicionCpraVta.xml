@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="3bd7bff7-34d2-4961-92d3-9ce2a59131bd">
+  <Table name="CondicionCpraVta" />
+  <Table name="Entidad" />
+</Dependencies>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="385120e4-f836-4fa0-a51e-acaaa5a57f28">
+  <Table name="CfgComprobanteDetalle" />
+  <Table name="Articulo" />
+  <Table name="Moneda" />
+  <Table name="Comprobante" />
+  <Table name="ComprobanteArticulo" />
+  <Table name="Entidad" />
+</Dependencies>

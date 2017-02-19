@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e8630916-b7f3-466d-8a20-40940966534b">
+  <Table name="CondicionIva" />
+  <Table name="Empresa" />
+  <Table name="Entidad" />
+</Dependencies>

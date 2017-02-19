@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus15/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Provincia</ObjName>
+      <ObjDesc>Provincia</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.provincia</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Pais</ObjName>
+      <ObjDesc>Pais</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.pais</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Localidad</ObjName>
+      <ObjDesc>Localidad</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.localidad</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Marca</ObjName>
+      <ObjDesc>Marca</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.marca</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TipoDocumento</ObjName>
+      <ObjDesc>Tipo Documento</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.tipodocumento</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Rubro</ObjName>
+      <ObjDesc>Rubro</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.rubro</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>CondicionIva</ObjName>
+      <ObjDesc>Condicion Iva</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.condicioniva</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>CondicionCpraVta</ObjName>
+      <ObjDesc>Condicion Cpra Vta</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.condicioncpravta</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>AlicuotaIva</ObjName>
+      <ObjDesc>Alicuota Iva</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.alicuotaiva</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Entidad</ObjName>
+      <ObjDesc>Entidad</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.entidad</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>CfgComprobante</ObjName>
+      <ObjDesc>Cfg Comprobante</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.cfgcomprobante</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Articulo</ObjName>
+      <ObjDesc>Articulo</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.articulo</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Empresa</ObjName>
+      <ObjDesc>Empresa</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.empresa</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Comprobante</ObjName>
+      <ObjDesc>Comprobante</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.comprobante</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Moneda</ObjName>
+      <ObjDesc>Moneda</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.moneda</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Entidad</ObjName>
+      <ObjDesc>Entidad</ObjDesc>
+      <ObjLink>http://localhost:8080/KBERPJavaEnvironment/servlet/com.kberp.entidad</ObjLink>
+   </Object>
+</Objects>

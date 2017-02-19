@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="fb248923-31fc-4e91-981b-55a2a963bfda">
+  <Table name="Marca" />
+  <Table name="Rubro" />
+  <Table name="AlicuotaIva" />
+  <Table name="Articulo" />
+  <Table name="ComprobanteArticulo" />
+</Dependencies>

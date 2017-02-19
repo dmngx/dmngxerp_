@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="4c49ef8e-3424-4dfb-a018-915205a79f03">
+  <Table name="Comprobante" />
+  <Table name="Moneda" />
+</Dependencies>

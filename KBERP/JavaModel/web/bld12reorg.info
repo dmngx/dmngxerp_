@@ -1,0 +1,7 @@
+generatorNumber=12
+modelNumber=2
+statePath=..\state\
+modelPath=..\..\
+compilePath=..\compile\
+additionalClasses=GXcfg;reorg;Reorganization
+is_reorg=yes

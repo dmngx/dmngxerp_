@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="e2fcfbec-f09b-45f7-9d04-17d42e04f6b2">
+  <Table name="AlicuotaIva" />
+  <Table name="Articulo" />
+</Dependencies>
